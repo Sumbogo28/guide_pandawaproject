@@ -1,0 +1,256 @@
+﻿{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "-",
+      "main_ads_intertitial":"-",
+      "main_ads_natives":"-",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"-",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": 8,
+      "title": "",
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": 9,
+      "title": "",
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": 10,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Huawei Health",
+      "image": "https://i.ytimg.com/vi/wepFr47-dmU/maxresdefault.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Huawei Health Guide",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2022/07/10/3010118265.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Huawei Health Tips",
+      "image": "https://blue.kumparan.com/image/upload/v1634025439/01gmpnth8xh21sv9krf887p6df.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Huawei Health",
+      "title": "Huawei Health Guide",
+      "image": "https://image.winudf.com/v2/image1/Y29tLm5ld2h1YWgucHJvYXBwX3NjcmVlbl80XzE2NzI1MDE5OTNfMDI3/screen-4.jpg?fakeurl=1&type=.jpg",
+      "description": "Go to Devices> > Add» Smart watches, then select your device name. 3. Touch Pair then HUAWEI",
+      "link": "https://huaweihealthguidetips.blogspot.com/p/huawei-health-guide.html"
+    },
+    {
+    "id": 2,
+    "name_category": "Huawei Health",
+    "title": "Downloading Huawei Health",
+    "image": "https://i0.wp.com/mohamedovic.com/wp-content/uploads/2021/11/Download-Huawei-Health.jpg",
+    "description": "scan the QR code on the right, or search for Huawei Health in the",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/downloading-huawei-health.html"
+    },
+    {
+    "id": 3,
+    "name_category": "Huawei Health",
+    "title": "Pairing your watch with your phone",
+    "image": "https://www.ecyberplanet.com/wp-content/uploads/2021/12/Huawei-Health-App.jpg",
+    "description": "If you want to earn money, you can make friends with the NPCs like the random drivers, a salesman from",
+    "link": "https://sakuraschoolgametips.blogspot.com/p/get-money-from-npc.html"
+    },
+    {
+    "id": 4,
+    "name_category": "Huawei Health",
+    "title": "Operation and safety",
+    "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/south-pacific/id/mkt/mobileservices/health/img/sec-1-pc.png",
+    "description": "Using an unapproved or incompatible power adapter, charger or battery may cause fire, explosion or other hazards",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/operation-and-safety.html"
+    },
+    {
+    "id": 5,
+    "name_category": "Huawei Health",
+    "title": " Frequency bands and power",
+    "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/mobileservices/health/imgs/pc/Huawei-health-sport-data.jpg",
+    "description": " Frequency bands in which the radio equipment operates: Some bands may not be available in all",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/frequency-bands-and-power.html"
+    },
+    {
+    "id": 6,
+    "name_category": "Huawei Health",
+    "title": "How do I scan with my Huawei Health app?",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmIi6cqdi8uP7W2sdx557RW8PTFz3wVEKBeoMaAnIxDYJgc2W5IA9SpfrKHs-jGh4GQM&usqp=CAU",
+    "description": "Scan the QR code on the packaging of your wearable device to download the app. Power on your",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/how-do-i-scan-with-my-huawei-health-app.html"
+    },
+    {
+    "id": 7,
+    "name_category": "Huawei Health",
+    "title": "How do I get free watch faces on Huawei Health app?",
+    "image": "https://www.huaweicentral.com/wp-content/uploads/2022/11/huawei-health-app-3.jpg",
+    "description": "In the HUAWEI Health app on your phone: Touch Devices and find the device name corresponding9",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/how-do-i-get-free-watch-faces-on-huawei.html"
+    },
+    {
+    "id": 8,
+    "name_category": "Huawei Health",
+    "title": "What devices work with Huawei Health app?",
+    "image": "https://www.digitalcitizen.life/wp-content/uploads/2022/07/huawei_health.png",
+    "description": "he Huawei Health app can be connected to devices including Huawei watches, Huawei bands, Huawei",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/what-devices-work-with-huawei-health-app.html"
+    },
+    {
+    "id": 9,
+    "name_category": "Huawei Health",
+    "title": "How does Huawei Health count steps? ",
+    "image": "https://i0.wp.com/www.huaweiupdate.com/wp-content/uploads/2020/12/Huawei-Health-App-update-latest.png?fit=1280%2C720&ssl=1",
+    "description": "Your steps are counted when your regular movement is detected by the app. For phones",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/how-does-huawei-health-count-steps.html"
+    },
+    {
+    "id": 10,
+    "name_category": "Huawei Health",
+    "title": "Do QR codes work on Huawei?",
+    "image": "https://1.bp.blogspot.com/-HYlwToZp8vY/YJFn6RbUtWI/AAAAAAABkrI/4sKdTm_Pg3Msw-fd9TQs-9VmA1lc0DfYQCLcBGAsYHQ/s800/huawei-health-app-1.png",
+    "description": "Scan with the Gallery app Open the Gallery app on Huawei phone, tap on the image",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/do-qr-codes-work-on-huawei.html"
+    },
+    {
+    "id": 11,
+    "name_category": "Huawei Health Guide",
+    "title": "Compete with friends :",
+    "image": "https://i.ytimg.com/vi/bv8NzTMqYoc/maxresdefault.jpg",
+    "description": "The Together tab in Huaweii Health is where you and your friends can compete with one ",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/compete-with-friends.html"
+    },
+    {
+    "id": 12,
+    "name_category": "Huawei Health Guide",
+    "title": "Contact a doctor:",
+    "image": "https://i0.wp.com/www.huaweiupdate.com/wp-content/uploads/2021/08/Huawei-Health-App-2021-year-update.png?fit=1024%2C576&ssl=1",
+    "description": "When Huaweii announced the Galaxy $8, it briefly mentioned Huawei Health users ",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/start-workout.html"
+    },
+    {
+    "id": 13,
+    "name_category": "Huawei Health Guide",
+    "title": "Start a workout:",
+    "image": "https://i.ytimg.com/vi/9bwwj22qzFg/mqdefault.jpg",
+    "description": "Starting a workout is as simple as: open the app and tap on the tile for the corresponding exercise type",
+    "link": "https://sakuraschoolgametips.blogspot.com/p/complete-missions-in-given-time.html"
+    },
+    {
+    "id": 14,
+    "name_category": "Huawei Health Guide",
+    "title": "Tweak Your Active Time Target :",
+    "image": "https://1.bp.blogspot.com/-HYlwToZp8vY/YJFn6RbUtWI/AAAAAAABkrI/4sKdTm_Pg3Msw-fd9TQs-9VmA1lc0DfYQCLcBGAsYHQ/s800/huawei-health-app-1.png",
+    "description": "Huaweii Healths Active time tracker monitors your physical activity throughout the day, and ",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/tweak-your-active-time-target.html"
+    },
+    {
+    "id": 15,
+    "name_category": "Huawei Health Guide",
+    "title": "Workout :",
+    "image": "https://www.thedeepnewssource.com/wp-content/uploads/2021/05/Huawei-Health.png",
+    "description": "Keeping your device awake during extended workout sessions can drain your battery, so it goes",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/workout.html"
+    },
+    {
+    "id": 16,
+    "name_category": "Huawei Health Tips",
+    "title": "Manually Add Your Favorite Food ltems :",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5gTg1Dec0W5RG4AEv_rzYEPx7L5azAXBfArvXGERx_vA--Dhj06Ob4VPzm5fjMS7i8CQ&usqp=CAU",
+    "description": "The database of food items found within Huaweii Health is among the most comprehensive out there,",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/manually-add-your-favorite-food-ltems.html"
+    },
+    {
+    "id": 17,
+    "name_category": "Huawei Health Tips",
+    "title": "HUAWEI Health",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrikvZzQMvOX2cpyCWG3Dej0X1ovIu8dfPYFtobE61fh1aymBciClAJmyxliww0Gk_5j8&usqp=CAU",
+    "description": "Your go-to, integrated health and fitness companion. Whether you want to kick-start your fitness life, keep",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/huawei-health.html"
+    },
+    {
+    "id": 18,
+    "name_category": "Huawei Health Tips",
+    "title": "HUAWEI Health Sports Data",
+    "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/mobileservices/health-new/img/pc/huawei-health-sports-data.jpg,
+    "description": "Keep up with becoming a healthier you. HUAWEI Health App records your activity in over",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/huawei-health-sports-data.html"
+    },
+    {
+    "id": 19,
+    "name_category": "Huawei Health Tips",
+    "title": "A New View on Health",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIa31XRz7X8AiphzpNYxANntunn0lH-d-eWogVqJO2o_qHjrT1XkPbVXFeIiIcdQHbunw&usqp=CAU",
+    "description": "See your life in amazing detail with HUAWEI Health App’s health stats. Keep an easy-to-access record",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/a-new-view-on-health.html"
+    },
+    {
+    "id": 20,
+    "name_category": "Huawei Health Tips",
+    "title": "Lead the Smart Life",
+    "image": "https://stadt-bremerhaven.de/wp-content/uploads/2022/05/Huawei-Health-App.jpeg",
+    "description": "Your control center for living smart, HUAWEI Health App lets you manage your music, plus",
+    "link": "https://huaweihealthguidetips.blogspot.com/p/lead-smart-life.html"
+    }
+  ]
+}
