@@ -1,4 +1,4 @@
-﻿{
+{
   "Ads": [
     {
       "select_main_ads": "ADMOB",
@@ -78,17 +78,17 @@
     {
       "id": 1,
       "name_category": "Huawei Health",
-      "image": "https://i.ytimg.com/vi/wepFr47-dmU/maxresdefault.jpg"
+      "image": "https://image.winudf.com/v2/image1/Y29tLm5ld2h1YWgucHJvYXBwX3NjcmVlbl80XzE2NzI1MDE5OTNfMDI3/screen-4.jpg?fakeurl=1&type=.jpg"
     },
     {
       "id": 2,
       "name_category": "Huawei Health Guide",
-      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2022/07/10/3010118265.jpg"
+      "image": "https://huaweihealthguidetips.blogspot.com/p/how-do-i-scan-with-my-huawei-health-app.html"
     },
     {
       "id": 3,
       "name_category": "Huawei Health Tips",
-      "image": "https://blue.kumparan.com/image/upload/v1634025439/01gmpnth8xh21sv9krf887p6df.png"
+      "image": "https://sakuraschoolgametips.blogspot.com/p/get-money-from-npc.html"
     }
   ],
   "Data": [
@@ -232,7 +232,7 @@
     "id": 18,
     "name_category": "Huawei Health Tips",
     "title": "HUAWEI Health Sports Data",
-    "image": ""https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/mobileservices/health-new/img/pc/huawei-health-sports-data.jpg,",
+    "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/mobileservices/health-new/img/pc/huawei-health-sports-data.jpg,",
     "description": "Keep up with becoming a healthier you. HUAWEI Health App records your activity in over",
     "link": "https://huaweihealthguidetips.blogspot.com/p/huawei-health-sports-data.html"
     },
