@@ -1,0 +1,240 @@
+﻿{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "-",
+      "main_ads_intertitial":"-",
+      "main_ads_natives":"-",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"-",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": 8,
+      "title": "",
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": 9,
+      "title": "",
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": 10,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Chat GPT AI",
+      "image": "https://dewabiz.com/wp-content/uploads/2022/12/Android-dns-cara.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Chat GPT AI Guide ",
+      "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/5b/1e/5f/5b1e5fc0-cf88-c58d-c8d8-e5b19c3f513c/19f66bd6-0446-4313-bc77-754d59a46d96_Screenshot_1_2048x2732.png/576x768bb.png"
+    },
+    {
+      "id": 3,
+      "name_category": "Chat GPT AI Guide Tips",
+      "image": "https://cdn.ghanaweb.com/imagelib/blog/504/50417692.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Chat GPT AI",
+      "title": "What Is GPT Chat",
+      "image": "https://dewabiz.com/wp-content/uploads/2022/12/Android-dns-cara.png",
+      "description": "ChatGPT was launched as a prototype on November 30 2022, and quickly garnered",
+      "link": "https://chatgptaiguidetips.blogspot.com/p/what-is-gpt-chat.html"
+    },
+    {
+    "id": 2,
+    "name_category": "Chat GPT AI",
+    "title": "How to Use ChatGPT",
+    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/5b/1e/5f/5b1e5fc0-cf88-c58d-c8d8-e5b19c3f513c/19f66bd6-0446-4313-bc77-754d59a46d96_Screenshot_1_2048x2732.png/576x768bb.png",
+    "description": "Using the ChatGPT chatbot is fairly simple, as all you have to do is type in your text and receive",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/how-to-use-chatgpt.html"
+    },
+    {
+    "id": 3,
+    "name_category": "Chat GPT AI",
+    "title": "Why Is ChatGPT Not Working",
+    "image": "https://cdn.ghanaweb.com/imagelib/blog/504/50417692.jpg",
+    "description": "chat gpt not loading or chat gpt not answering due to a high number of requests at a time and server",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/why-is-chatgpt-not-working.html"
+    },
+    {
+    "id": 4,
+    "name_category": "Chat GPT AI",
+    "title": "Is ChatGPT Free To Use?",
+    "image": "https://www.01net.com/app/uploads/2023/01/chat-gpt-fausse-app.jpg",
+    "description": "the basic version of ChatGPT is completely free to use. It's not free for OpenAl to continue running it, of",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/is-chatgpt-free-to-use.html"
+    },
+    {
+    "id": 5,
+    "name_category": "Chat GPT AI",
+    "title": "ChatGPT Network Error",
+    "image": "https://amandawritenow.com/wp-content/uploads/2023/01/Untitled-design-2.png",
+    "description": "Many people attempting to use ChatGPT recently have been getting an at capacity notice when trying to access",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/chatgpt-network-error.html"
+    },
+    {
+    "id": 6,
+    "name_category": "Chat GPT AI",
+    "title": "Do You Need To Download ChatGPT",
+    "image": "https://miro.medium.com/max/1400/0*o_IK4ENwCmw5VcqE.png",
+    "description": "ChatGPT is available via a webpage, so no downloading is needed. OpenAl has yet to release an official app",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/do-you-need-to-download-chatgpt.html"
+    },
+    {
+    "id": 7,
+    "name_category": "Chat GPT AI",
+    "title": "How To Use ChatGPT",
+    "image": "https://www.analyticsinsight.net/wp-content/uploads/2022/02/Exploring-the-difference-between-chatbots-and-conversational-AI.jpg",
+    "description": "The ChatGPT webpage is simple and includes an area for the results to populate and a text box",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/how-to-use-chatgpt_2.html"
+    },
+    {
+    "id": 8,
+    "name_category": "Chat GPT AI",
+    "title": "How To Register An OpenAI Account",
+    "image": "https://www.formilla.com/blog/wp-content/uploads/2021/01/chat-bot-vector-ai-graphic-e1609975066435.png",
+    "description": "Using the ChatGPT chatbot is fairly simple, as all you have to do is type in your text and receive the information",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/how-to-register-openai-account.html"
+    },
+    {
+    "id": 9,
+    "name_category": "Chat GPT AI",
+    "title": "ChatGPT Official Website",
+    "image": "https://dewabiz.com/wp-content/uploads/2022/12/Android-dns-cara.png",
+    "description": "Official Website",
+    "link": "https://sakuraschoolgametips.blogspot.com/p/interact-with-other-characters.html"
+    },
+    {
+    "id": 10,
+    "name_category": "Chat GPT AI",
+    "title": "Methods",
+    "image": "https://www.weetechsolution.com/wp-content/uploads/2022/12/Chat-GPT-for-Content-and-SEO.jpg",
+    "description": "We trained this model using Reinforcement Learning from Human Feedback (RLHF), using the same methods as InstructGPT, but with slight differences in the data",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/methods.html"
+    },
+    {
+    "id": 11,
+    "name_category": "Chat GPT AI Guide ",
+    "title": "Limitations",
+    "image": "https://attorneyatlawmagazine.com/wp-content/uploads/2023/01/Chat-GPT-and-Legal-Content-Marketing.png",
+    "description": "ChatGPT sometimes writes plausible-sounding but incorrect or nonsensical answers. Fixing this issue is challenging, as: (1) during RL training, there’s currently no source of truth",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/limitations.html"
+    },
+    {
+    "id": 12,
+    "name_category": "Chat GPT AI Guide ",
+    "title": "A guide on how to use OpenAI's new ChatGPT",
+    "image": "https://cdn.gcn.com/media/img/cd/2022/12/06/12062022_share_chatbot2-1/860x394.jpg",
+    "description": "OpenAI has recently developed a chatbot based on their GPT-3.5 technology model. This generative AI model has been designed to generate text",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/a-guide-on-how-to-use-openais-new.html"
+    },
+    {
+    "id": 13,
+    "name_category": "Chat GPT AI Guide ",
+    "title": "How good is it, really?",
+    "image": "https://i.ytimg.com/vi/9bwwj22qzFg/mqdefault.jpg",
+    "description": "Do you find it hard to believe that GPT-3 can generate text that is virtually indistinguishable from what",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/how-good-is-it-really.html"
+    },
+    {
+    "id": 14,
+    "name_category": "Chat GPT AI Guide ",
+    "title": "How to use ChatGPT - Crash Course",
+    "image": "https://www.mundodeportivo.com/files/article_main_microformat/uploads/2022/12/06/638f0dd92e463.jpeg",
+    "description": "The second video covers the introductions of how to use ChatGPT and it's features. This includes how to interact with it for basic prompts",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/how-to-use-chatgpt-crash-course.html"
+    },
+    {
+    "id": 15,
+    "name_category": "Chat GPT AI Guide ",
+    "title": "Advanced ChatGPT Guide ",
+    "image": "https://miro.medium.com/max/1024/0*rfXIEj4zpsQdbMYD.jpg",
+    "description": "An indepth look at not just ChatGPT, but OpenAI and it's GPT models including ada, babbage, curie and davinci. How to do",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/advanced-chatgpt-guide.html"
+    },
+    {
+    "id": 16,
+    "name_category": "Chat GPT AI Guide Tips",
+    "title": "How to use ChatGPT to build Business Ideas ",
+    "image": "https://www.diarioconvos.com/wp-content/uploads/2022/12/chat-gpt.jpeg",
+    "description": "aking it one step further, ways that ChatGPT can be used for generating SaaS using AI models",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/how-to-use-chatgpt-to-build-business.html"
+    },
+    {
+    "id": 17,
+    "name_category": "Chat GPT AI Guide Tips",
+    "title": "Create ChatGPT from Scratch ",
+    "image": "https://blog.admindroid.com/wp-content/uploads/2022/12/Chat-GPT-AI-Chatbot-1.png",
+    "description": "How to create your own ChatGPT interface, including things like message history and prompts to engineer the chatbot to work",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/create-chatgpt-from-scratch.html"
+    },
+    {
+    "id": 18,
+    "name_category": "Chat GPT AI Guide Tips",
+    "title": "Adding ChatGPT to Discord ",
+    "image": "http://www.fastweb.it/var/storage_feeds/CMS/articoli/13d/13d8a16b2eb6b5a29ecff1e397c021f6/640x360.jpg",
+    "description": "Integrate OpenAI models into discord by interfacing with the Discord API and creating a bot that access the AI API to allow users",
+    "link": "https://chatgptaiguidetips.blogspot.com/p/adding-chatgpt-to-discord.html"
+    }
+  ]
+}
